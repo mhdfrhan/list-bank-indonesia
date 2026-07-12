@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BankID API - API Daftar Bank Indonesia Terlengkap, Gratis & Cepat</title>
+  <meta name="description" content="API gratis daftar bank Indonesia beserta nama, nama singkat, sandi BIC (SWIFT), kode bank, dan kode kantor. CORS-enabled dan dihost secara statis di Vercel CDN.">
+  <meta name="keywords" content="api bank indonesia, daftar kode bank, kode bank indonesia, sandi bank bi, api gratis bank indonesia, swift bank indonesia">
+  
+  <!-- SEO Meta Tags for Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="BankID API - API Daftar Bank Indonesia Terlengkap, Gratis & Cepat">
+  <meta property="og:description" content="API gratis daftar bank Indonesia beserta nama, nama singkat, sandi BIC, kode bank, dan kode kantor. Hosted statically on Vercel CDN.">
+  <meta property="og:image" content="https://list-bank-indonesia.vercel.app/og-image.png">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+  
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  
+  <!-- PrismJS for Syntax Highlighting -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css" rel="stylesheet" />
+  
+  <!-- Custom Stylesheet -->
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+  <!-- Background Blur Decoration -->
+  <div class="bg-blur-1"></div>
+  <div class="bg-blur-2"></div>
+
+  <!-- Navigation Bar -->
+  <nav class="navbar">
+    <div class="container nav-container">
+      <div class="nav-brand">
+        <div class="logo-container">
+          <i data-lucide="landmark" class="logo-icon"></i>
+        </div>
+        <span class="logo-text">BankID<span class="highlight">.API</span></span>
+      </div>
+      <div class="nav-links">
+        <a href="#playground" class="nav-link">Playground</a>
+        <a href="#endpoints" class="nav-link">Dokumentasi</a>
+        <a href="#directory" class="nav-link">Direktori Bank</a>
+        <a href="https://github.com" target="_blank" class="nav-btn">
+          <svg class="btn-icon-left" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg" style="width: 18px; height: 18px; display: inline-block; vertical-align: middle;">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8C0 11.54 2.29 14.53 5.47 15.59C5.87 15.66 6.02 15.42 6.02 15.21C6.02 15.02 6.01 14.39 6.01 13.72C4 14.09 3.48 13.23 3.32 12.78C3.23 12.55 2.84 11.84 2.5 11.65C2.22 11.5 1.82 11.13 2.49 11.12C3.12 11.11 3.57 11.7 3.72 11.94C4.44 13.15 5.59 12.81 6.05 12.6C6.12 12.08 6.33 11.73 6.56 11.53C4.78 11.33 2.92 10.64 2.92 7.58C2.92 6.71 3.23 5.99 3.74 5.43C3.66 5.23 3.38 4.41 3.82 3.31C3.82 3.31 4.49 3.1 6.02 4.13C6.66 3.95 7.34 3.86 8.02 3.86C8.7 3.86 9.38 3.95 10.02 4.13C11.55 3.09 12.22 3.31 12.22 3.31C12.66 4.41 12.38 5.23 12.3 5.43C12.81 5.99 13.12 6.7 13.12 7.58C13.12 10.65 11.25 11.33 9.47 11.53C9.76 11.78 10.01 12.26 10.01 13.01C10.01 14.08 10 14.94 10 15.21C10 15.42 10.15 15.67 10.55 15.59C13.71 14.53 16 11.53 16 8C16 3.58 12.42 0 8 0Z" transform="scale(64)" fill="currentColor"/>
+          </svg>GitHub
+        </a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <header class="hero-section">
+    <div class="container hero-container">
+      <div class="hero-badge">
+        <span class="badge-dot"></span>
+        <span class="badge-text">Update Terkini: 12 Juli 2026</span>
+      </div>
+      <h1 class="hero-title">API Bank Indonesia<br><span class="gradient-text">Gratis, Cepat, & CORS-Enabled</span></h1>
+      <p class="hero-subtitle">
+        Akses data 125 bank di Indonesia secara publik, gratis, tanpa batas rate limit, dan dihost secara statis pada Vercel CDN untuk performa maksimal dengan waktu respons <span class="highlight">~0ms</span>.
+      </p>
+      
+      <div class="hero-actions">
+        <a href="#directory" class="btn btn-primary">
+          <i data-lucide="search" class="btn-icon-left"></i>Cari Kode Bank
+        </a>
+        <a href="#endpoints" class="btn btn-secondary">
+          <i data-lucide="book-open" class="btn-icon-left"></i>Baca Dokumentasi
+        </a>
+      </div>
+      
+      <div class="hero-features">
+        <div class="feature-tag"><i data-lucide="zap" class="tag-icon"></i> Vercel CDN</div>
+        <div class="feature-tag"><i data-lucide="globe" class="tag-icon"></i> CORS-Enabled</div>
+        <div class="feature-tag"><i data-lucide="shield-check" class="tag-icon"></i> Tanpa Rate Limit</div>
+        <div class="feature-tag"><i data-lucide="git-branch" class="tag-icon"></i> Open Source</div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Playground Section -->
+  <section id="playground" class="section playground-section">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">API Playground & Integrasi</h2>
+        <p class="section-description">Coba API langsung dari browser Anda dan dapatkan kode integrasi untuk bahasa pemrograman Anda.</p>
+      </div>
+
+      <div class="playground-grid">
+        <!-- Interactive Interface -->
+        <div class="playground-card code-selector-card">
+          <div class="card-header">
+            <span class="card-title">Pilih Bahasa Pemrograman</span>
+          </div>
+          <div class="tab-list" role="tablist">
+            <button class="tab-btn active" data-tab="js">JavaScript</button>
+            <button class="tab-btn" data-tab="python">Python</button>
+            <button class="tab-btn" data-tab="dart">Dart / Flutter</button>
+            <button class="tab-btn" data-tab="php">PHP</button>
+            <button class="tab-btn" data-tab="curl">cURL</button>
+          </div>
+          
+          <div class="tab-content active" id="tab-js">
+            <div class="code-header">
+              <span class="file-name">get_banks.js</span>
+              <button class="copy-btn" data-target="code-js"><i data-lucide="copy" class="copy-icon"></i>Salin</button>
+            </div>
+            <pre><code class="language-javascript" id="code-js">fetch('https://list-bank-indonesia.vercel.app/api/banks.json')
+  .then(response => response.json())
+  .then(data => {
+    console.log(`Ditemukan ${data.length} bank.`);
+    console.log(data[0]); // Bank Raya
+  })
+  .catch(error => console.error('Error:', error));</code></pre>
+          </div>
+
+          <div class="tab-content" id="tab-python">
+            <div class="code-header">
+              <span class="file-name">get_banks.py</span>
+              <button class="copy-btn" data-target="code-python"><i data-lucide="copy" class="copy-icon"></i>Salin</button>
+            </div>
+            <pre><code class="language-python" id="code-python">import requests
+
+url = "https://list-bank-indonesia.vercel.app/api/banks.json"
+response = requests.get(url)
+
+if response.status_code == 200:
+    banks = response.json()
+    print(f"Ditemukan {len(banks)} bank.")
+    print(banks[0])
+else:
+    print("Gagal mengambil data")</code></pre>
+          </div>
+
+          <div class="tab-content" id="tab-dart">
+            <div class="code-header">
+              <span class="file-name">get_banks.dart</span>
+              <button class="copy-btn" data-target="code-dart"><i data-lucide="copy" class="copy-icon"></i>Salin</button>
+            </div>
+            <pre><code class="language-dart" id="code-dart">import 'dart:convert';
+import 'http/http.dart' as http;
+
+Future<void> fetchBanks() async {
+  final url = Uri.parse('https://list-bank-indonesia.vercel.app/api/banks.json');
+  final response = await http.get(url);
+
+  if (response.statusCode == 200) {
+    List<dynamic> banks = jsonDecode(response.body);
+    print('Ditemukan ${banks.length} bank.');
+    print(banks[0]);
+  } else {
+    throw Exception('Gagal mengambil data bank');
+  }
+}</code></pre>
+          </div>
+
+          <div class="tab-content" id="tab-php">
+            <div class="code-header">
+              <span class="file-name">get_banks.php</span>
+              <button class="copy-btn" data-target="code-php"><i data-lucide="copy" class="copy-icon"></i>Salin</button>
+            </div>
+            <pre><code class="language-php" id="code-php">&lt;?php
+$url = "https://list-bank-indonesia.vercel.app/api/banks.json";
+$response = file_get_contents($url);
+
+if ($response !== false) {
+    $banks = json_decode($response, true);
+    echo "Ditemukan " . count($banks) . " bank.\n";
+    print_r($banks[0]);
+} else {
+    echo "Gagal mengambil data";
+}
+?&gt;</code></pre>
+          </div>
+
+          <div class="tab-content" id="tab-curl">
+            <div class="code-header">
+              <span class="file-name">Shell</span>
+              <button class="copy-btn" data-target="code-curl"><i data-lucide="copy" class="copy-icon"></i>Salin</button>
+            </div>
+            <pre><code class="language-bash" id="code-curl">curl -X GET "https://list-bank-indonesia.vercel.app/api/banks.json"</code></pre>
+          </div>
+        </div>
+
+        <!-- Simulated Response -->
+        <div class="playground-card terminal-card">
+          <div class="card-header">
+            <div class="terminal-dots">
+              <span class="dot red"></span>
+              <span class="dot yellow"></span>
+              <span class="dot green"></span>
+            </div>
+            <span class="terminal-title">Response JSON</span>
+            <div class="api-status-badge">
+              <span class="status-dot"></span>
+              <span class="status-text">200 OK</span>
+            </div>
+          </div>
+          <div class="terminal-body">
+            <pre><code class="language-json" id="json-response">// Melakukan load data...
+{
+  "no": 1,
+  "sandi_bic": "AGTBIDJA",
+  "name": "PT. BANK RAYA INDONESIA, TBK",
+  "name_singkat": "BANK RAYA",
+  "code": "494",
+  "kode_kantor": "0014"
+}</code></pre>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Endpoint Docs Section -->
+  <section id="endpoints" class="section endpoints-section">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">Endpoint Dokumentasi</h2>
+        <p class="section-description">Beberapa endpoint statis yang tersedia dan siap digunakan dalam aplikasi komersil maupun personal Anda.</p>
+      </div>
+
+      <div class="endpoints-list">
+        <!-- Endpoint 1 -->
+        <div class="endpoint-item">
+          <div class="endpoint-header">
+            <span class="method get">GET</span>
+            <span class="endpoint-url">/api/banks.json</span>
+            <span class="endpoint-desc">Mendapatkan seluruh daftar 125 bank di Indonesia.</span>
+          </div>
+          <div class="endpoint-body">
+            <p class="endpoint-details"><strong>Base URL:</strong> <code>https://list-bank-indonesia.vercel.app</code></p>
+            <p class="endpoint-details"><strong>Response Model (Array):</strong></p>
+            <pre><code class="language-json">[
+  {
+    "no": 1,
+    "sandi_bic": "AGTBIDJA",
+    "name": "PT. BANK RAYA INDONESIA, TBK",
+    "name_singkat": "BANK RAYA",
+    "code": "494",
+    "kode_kantor": "0014"
+  },
+  ...
+]</code></pre>
+          </div>
+        </div>
+
+        <!-- Endpoint 2 -->
+        <div class="endpoint-item">
+          <div class="endpoint-header">
+            <span class="method get">GET</span>
+            <span class="endpoint-url">/api/banks/code/{code}.json</span>
+            <span class="endpoint-desc">Mendapatkan info bank tertentu berdasarkan Kode Bank 3-digit transfer (misal: <code>014</code>).</span>
+          </div>
+          <div class="endpoint-body">
+            <p class="endpoint-details"><strong>Parameters:</strong> <code>code</code> (String) - Kode bank transfer (3 digit, cth: <code>014</code> untuk BCA, <code>008</code> untuk Mandiri)</p>
+            <p class="endpoint-details"><strong>Contoh:</strong> <a href="/api/banks/code/014.json" target="_blank"><code>/api/banks/code/014.json</code></a></p>
+            <pre><code class="language-json">{
+  "no": 83,
+  "sandi_bic": "CENAIDJA",
+  "name": "PT. BANK CENTRAL ASIA Tbk.",
+  "name_singkat": "BCA",
+  "code": "014",
+  "kode_kantor": "0397"
+}</code></pre>
+          </div>
+        </div>
+
+        <!-- Endpoint 3 -->
+        <div class="endpoint-item">
+          <div class="endpoint-header">
+            <span class="method get">GET</span>
+            <span class="endpoint-url">/api/banks/bic/{bic}.json</span>
+            <span class="endpoint-desc">Mendapatkan info bank berdasarkan Sandi BIC/SWIFT 8-karakter (misal: <code>CENAIDJA</code>).</span>
+          </div>
+          <div class="endpoint-body">
+            <p class="endpoint-details"><strong>Parameters:</strong> <code>bic</code> (String) - Kode Sandi BIC/SWIFT bank (8 digit, cth: <code>CENAIDJA</code> untuk BCA)</p>
+            <p class="endpoint-details"><strong>Contoh:</strong> <a href="/api/banks/bic/CENAIDJA.json" target="_blank"><code>/api/banks/bic/CENAIDJA.json</code></a></p>
+            <pre><code class="language-json">{
+  "no": 83,
+  "sandi_bic": "CENAIDJA",
+  "name": "PT. BANK CENTRAL ASIA Tbk.",
+  "name_singkat": "BCA",
+  "code": "014",
+  "kode_kantor": "0397"
+}</code></pre>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Interactive Directory Section -->
+  <section id="directory" class="section directory-section">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">Direktori Bank Indonesia</h2>
+        <p class="section-description">Cari dan filter daftar bank secara real-time. Salin kode bank atau response JSON dengan sekali klik.</p>
+      </div>
+
+      <!-- Search Bar -->
+      <div class="search-container">
+        <div class="search-input-wrapper">
+          <i data-lucide="search" class="search-icon"></i>
+          <input type="text" id="search-input" placeholder="Cari nama bank, nama singkat, kode bank (cth: 008, Mandiri, BCA)..." autocomplete="off">
+          <button id="clear-search-btn" class="clear-search-btn hidden"><i data-lucide="x"></i></button>
+        </div>
+        <div class="search-stats">
+          Menampilkan <span id="visible-count">0</span> dari <span id="total-count">0</span> bank
+        </div>
+      </div>
+
+      <!-- Bank List Grid Wrapper for Collapsible Directory -->
+      <div class="bank-grid-wrapper" id="bank-grid-wrapper">
+        <div class="bank-grid" id="bank-grid">
+          <!-- Content dynamically populated by Javascript -->
+          <div class="loading-state">
+            <div class="spinner"></div>
+            <p>Memuat daftar bank...</p>
+          </div>
+        </div>
+        <div class="grid-fade-overlay" id="grid-fade"></div>
+      </div>
+
+      <!-- Expand Button -->
+      <div class="expand-actions" id="expand-actions">
+        <button id="show-all-btn" class="btn btn-primary">
+          <i data-lucide="chevrons-down" class="btn-icon-left"></i>Lihat Semua Bank
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Toast Notification -->
+  <div class="toast" id="toast">
+    <i data-lucide="check-circle" class="toast-icon"></i>
+    <span class="toast-text">Berhasil disalin!</span>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container footer-container">
+      <div class="footer-left">
+        <div class="nav-brand">
+          <i data-lucide="landmark" class="logo-icon"></i>
+          <span class="logo-text">BankID<span class="highlight">.API</span></span>
+        </div>
+        <p class="footer-desc">API Publik daftar nama dan kode sandi transfer bank di Indonesia.</p>
+      </div>
+      <div class="footer-right">
+        <p>Konten bersumber dari data resmi Sandi Bank Bank Indonesia. Dibuat dengan antusiasme tinggi untuk developer Indonesia.</p>
+        <p class="copyright">&copy; 2026 BankID.API. Lisensi MIT. Proyek Open Source.</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-python.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-dart.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-php.min.js"></script>
+  <script src="index.js"></script>
+  
+  <script>
+    // Initialize Lucide Icons
+    lucide.createIcons();
+  </script>
+</body>
+</html>

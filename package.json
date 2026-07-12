@@ -1,0 +1,20 @@
+{
+  "name": "list-bank-indonesia",
+  "version": "1.0.0",
+  "description": "API dan landing page daftar kode bank Indonesia resmi dari Bank Indonesia",
+  "main": "scripts/parse.js",
+  "scripts": {
+    "build": "node scripts/parse.js",
+    "dev": "npx -y serve dist"
+  },
+  "keywords": [
+    "bank",
+    "indonesia",
+    "api",
+    "json",
+    "bi",
+    "sandi-bank"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}

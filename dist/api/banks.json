@@ -1,0 +1,1002 @@
+[
+  {
+    "no": 1,
+    "sandi_bic": "AGTBIDJA",
+    "name": "PT. BANK RAYA INDONESIA, TBK",
+    "name_singkat": "BANK RAYA",
+    "code": "494",
+    "kode_kantor": "0014"
+  },
+  {
+    "no": 2,
+    "sandi_bic": "ANZBIDJX",
+    "name": "PT. BANK ANZ INDONESIA",
+    "name_singkat": "ANZ INDONESIA",
+    "code": "061",
+    "kode_kantor": "0306"
+  },
+  {
+    "no": 3,
+    "sandi_bic": "ARTGIDJA",
+    "name": "PT. BANK ARTHA GRAHA INTERNASIONAL, TBK",
+    "name_singkat": "BAG INTERNASIONAL",
+    "code": "037",
+    "kode_kantor": "0028"
+  },
+  {
+    "no": 4,
+    "sandi_bic": "SYACIDJ1",
+    "name": "PT. BANK ACEH SYARIAH",
+    "name_singkat": "BANK ACEH",
+    "code": "116",
+    "kode_kantor": "9900"
+  },
+  {
+    "no": 5,
+    "sandi_bic": "IBKOIDJA",
+    "name": "PT. BANK IBK INDONESIA",
+    "name_singkat": "BANK IBK",
+    "code": "945",
+    "kode_kantor": "0305"
+  },
+  {
+    "no": 6,
+    "sandi_bic": "LOMAIDJ1",
+    "name": "PT. BANK AMAR INDONESIA",
+    "name_singkat": "BANK AMAR",
+    "code": "531",
+    "kode_kantor": "0012"
+  },
+  {
+    "no": 7,
+    "sandi_bic": "JAGBIDJA",
+    "name": "PT. BANK JAGO Tbk",
+    "name_singkat": "BANK JAGO",
+    "code": "542",
+    "kode_kantor": "0012"
+  },
+  {
+    "no": 8,
+    "sandi_bic": "SYATIDJ1",
+    "name": "PT. BANK JAGO TBK UNIT USAHA SYARIAH",
+    "name_singkat": "BANK JAGO UUS",
+    "code": "542",
+    "kode_kantor": "9903"
+  },
+  {
+    "no": 9,
+    "sandi_bic": "SYCAIDJ1",
+    "name": "PT. BANK BCA SYARIAH",
+    "name_singkat": "BANK BCA SYARIAH",
+    "code": "536",
+    "kode_kantor": "0017"
+  },
+  {
+    "no": 10,
+    "sandi_bic": "PDBKIDJ1",
+    "name": "PT. BPD BENGKULU",
+    "name_singkat": "BANK BENGKULU",
+    "code": "133",
+    "kode_kantor": "0012"
+  },
+  {
+    "no": 11,
+    "sandi_bic": "BUSTIDJ1",
+    "name": "PT. KROM BANK INDONESIA",
+    "name_singkat": "KROM BANK",
+    "code": "459",
+    "kode_kantor": "0011"
+  },
+  {
+    "no": 12,
+    "sandi_bic": "BNINIDJA",
+    "name": "PT. BANK NEGARA INDONESIA (PERSERO)",
+    "name_singkat": "BANK BNI",
+    "code": "009",
+    "kode_kantor": "0010"
+  },
+  {
+    "no": 13,
+    "sandi_bic": "PDYKIDJ1",
+    "name": "PT. BANK PEMBANGUNAN DAERAH DIY",
+    "name_singkat": "BANK BPD DIY",
+    "code": "112",
+    "kode_kantor": "0015"
+  },
+  {
+    "no": 14,
+    "sandi_bic": "SYYKIDJ1",
+    "name": "PT.BANK PEMBANGUNAN DAERAH DIY UNIT USAHA SYARIAH",
+    "name_singkat": "BANK BPD DIY UUS",
+    "code": "112",
+    "kode_kantor": "9922"
+  },
+  {
+    "no": 15,
+    "sandi_bic": "PUBAIDJ1",
+    "name": "PT. BANK BTPN SYARIAH",
+    "name_singkat": "BANK BTPN SYARIAH",
+    "code": "547",
+    "kode_kantor": "0046"
+  },
+  {
+    "no": 16,
+    "sandi_bic": "BCIAIDJA",
+    "name": "PT BANK CAPITAL INDONESIA",
+    "name_singkat": "BANK CAPITAL",
+    "code": "054",
+    "kode_kantor": "0308"
+  },
+  {
+    "no": 17,
+    "sandi_bic": "BNIAIDJA",
+    "name": "PT. BANK CIMB NIAGA TBK",
+    "name_singkat": "BANK CIMB",
+    "code": "022",
+    "kode_kantor": "0026"
+  },
+  {
+    "no": 18,
+    "sandi_bic": "SYNAIDJ1",
+    "name": "PT. BANK CIMB NIAGA TBK - UNIT USAHA SYARIAH",
+    "name_singkat": "BANK CIMB NIAGA UUS",
+    "code": "022",
+    "kode_kantor": "9920"
+  },
+  {
+    "no": 19,
+    "sandi_bic": "BDINIDJA",
+    "name": "PT. BANK DANAMON INDONESIA Tbk.",
+    "name_singkat": "BANK DANAMON",
+    "code": "011",
+    "kode_kantor": "0042"
+  },
+  {
+    "no": 20,
+    "sandi_bic": "SYBDIDJ1",
+    "name": "PT. BANK DANAMON INDONESIA UNIT USAHA SYARIAH",
+    "name_singkat": "BANK DANAMON UUS",
+    "code": "011",
+    "kode_kantor": "9920"
+  },
+  {
+    "no": 21,
+    "sandi_bic": "LMANIDJ1",
+    "name": "PT. BANK OKE INDONESIA",
+    "name_singkat": "BANK OKE",
+    "code": "526",
+    "kode_kantor": "0010"
+  },
+  {
+    "no": 22,
+    "sandi_bic": "BDKIIDJ1",
+    "name": "PT. BANK DKI",
+    "name_singkat": "BANK DKI",
+    "code": "111",
+    "kode_kantor": "0012"
+  },
+  {
+    "no": 23,
+    "sandi_bic": "SYDKIDJ1",
+    "name": "PT. BANK DKI UNIT USAHA SYARIAH",
+    "name_singkat": "BANK DKI UUS",
+    "code": "111",
+    "kode_kantor": "9916"
+  },
+  {
+    "no": 24,
+    "sandi_bic": "FAMAIDJ1",
+    "name": "PT. SUPER BANK INDONESIA",
+    "name_singkat": "SUPER BANK",
+    "code": "562",
+    "kode_kantor": "0016"
+  },
+  {
+    "no": 25,
+    "sandi_bic": "GNESIDJA",
+    "name": "PT. BANK GANESHA",
+    "name_singkat": "BANK GANESHA",
+    "code": "161",
+    "kode_kantor": "0017"
+  },
+  {
+    "no": 26,
+    "sandi_bic": "HRDAIDJ1",
+    "name": "PT. ALLO BANK INDONESIA",
+    "name_singkat": "BANK ALLO",
+    "code": "567",
+    "kode_kantor": "0011"
+  },
+  {
+    "no": 27,
+    "sandi_bic": "HSBCIDJA",
+    "name": "PT. BANK HSBC INDONESIA",
+    "name_singkat": "BANK HSBC INDONESIA",
+    "code": "087",
+    "kode_kantor": "0010"
+  },
+  {
+    "no": 28,
+    "sandi_bic": "ICBKIDJA",
+    "name": "PT. BANK ICBC INDONESIA",
+    "name_singkat": "BANK ICBC",
+    "code": "164",
+    "kode_kantor": "0016"
+  },
+  {
+    "no": 29,
+    "sandi_bic": "IAPTIDJA",
+    "name": "PT. BANK INA PERDANA",
+    "name_singkat": "BANK INA",
+    "code": "513",
+    "kode_kantor": "0014"
+  },
+  {
+    "no": 30,
+    "sandi_bic": "BIDXIDJA",
+    "name": "BANK INDEX SELINDO",
+    "name_singkat": "BANK INDEX",
+    "code": "555",
+    "kode_kantor": "0018"
+  },
+  {
+    "no": 31,
+    "sandi_bic": "PDJBIDJA",
+    "name": "PT. BANK PEMBANGUNAN DAERAH JABAR DAN BANTEN",
+    "name_singkat": "BANK JABAR",
+    "code": "110",
+    "kode_kantor": "0323"
+  },
+  {
+    "no": 32,
+    "sandi_bic": "SYJBIDJ1",
+    "name": "PT. BANK JABAR BANTEN SYARIAH",
+    "name_singkat": "BANK JABAR SYARIAH",
+    "code": "425",
+    "kode_kantor": "0018"
+  },
+  {
+    "no": 33,
+    "sandi_bic": "JSABIDJ1",
+    "name": "PT. BANK JASA JAKARTA",
+    "name_singkat": "BANK JASA JAKARTA",
+    "code": "472",
+    "kode_kantor": "0014"
+  },
+  {
+    "no": 34,
+    "sandi_bic": "PDJGIDJ1",
+    "name": "PT. BANK PEMBANGUNAN DAERAH JAWA TENGAH",
+    "name_singkat": "BANK JATENG",
+    "code": "113",
+    "kode_kantor": "0348"
+  },
+  {
+    "no": 35,
+    "sandi_bic": "SYJGIDJ1",
+    "name": "PT. BANK PEMBANGUNAN DAERAH JATENG UNIT USAHA SYAR",
+    "name_singkat": "BANK JATENG UUS",
+    "code": "113",
+    "kode_kantor": "9938"
+  },
+  {
+    "no": 36,
+    "sandi_bic": "PDJTIDJ1",
+    "name": "PT. BANK PEMBANGUNAN DAERAH JATIM",
+    "name_singkat": "BANK JATIM",
+    "code": "114",
+    "kode_kantor": "0383"
+  },
+  {
+    "no": 37,
+    "sandi_bic": "SYJTIDJ1",
+    "name": "PT.BANK PEMBANGUNAN DAERAH JATIM - UNIT USAHA SYAR",
+    "name_singkat": "BANK JATIM - UUS",
+    "code": "114",
+    "kode_kantor": "9928"
+  },
+  {
+    "no": 38,
+    "sandi_bic": "CICTIDJA",
+    "name": "PT. BANK JTRUST INDONESIA, TBK",
+    "name_singkat": "BANK JTRUST",
+    "code": "095",
+    "kode_kantor": "0011"
+  },
+  {
+    "no": 39,
+    "sandi_bic": "HNBNIDJA",
+    "name": "PT. BANK KEB HANA INDONESIA",
+    "name_singkat": "BANK KEB HANA",
+    "code": "484",
+    "kode_kantor": "0017"
+  },
+  {
+    "no": 40,
+    "sandi_bic": "SSPIIDJA",
+    "name": "PT. BANK SEABANK INDONESIA",
+    "name_singkat": "BANK SEABANK",
+    "code": "535",
+    "kode_kantor": "0014"
+  },
+  {
+    "no": 41,
+    "sandi_bic": "PDLPIDJ1",
+    "name": "PT.BANK PEMBANGUNAN DAERAH LAMPUNG",
+    "name_singkat": "BANK LAMPUNG",
+    "code": "121",
+    "kode_kantor": "0051"
+  },
+  {
+    "no": 42,
+    "sandi_bic": "PDMLIDJ1",
+    "name": "PT.BANK PEMBANGUNAN DAERAH MALUKU",
+    "name_singkat": "BANK MALUKU",
+    "code": "131",
+    "kode_kantor": "0016"
+  },
+  {
+    "no": 43,
+    "sandi_bic": "BMRIIDJA",
+    "name": "PT. BANK MANDIRI (PERSERO) TBK",
+    "name_singkat": "BANK MANDIRI",
+    "code": "008",
+    "kode_kantor": "0017"
+  },
+  {
+    "no": 44,
+    "sandi_bic": "SIHBIDJ1",
+    "name": "PT. BANK MANDIRI TASPEN",
+    "name_singkat": "BANK MANDIRI TASPEN",
+    "code": "564",
+    "kode_kantor": "0012"
+  },
+  {
+    "no": 45,
+    "sandi_bic": "BMSEIDJA",
+    "name": "PT. BANK MULTI ARTA SENTOSA",
+    "name_singkat": "BANK MAS",
+    "code": "548",
+    "kode_kantor": "0010"
+  },
+  {
+    "no": 46,
+    "sandi_bic": "MASDIDJ1",
+    "name": "PT. BANK MASPION",
+    "name_singkat": "BANK MASPION",
+    "code": "157",
+    "kode_kantor": "0018"
+  },
+  {
+    "no": 47,
+    "sandi_bic": "MAYAIDJA",
+    "name": "PT. BANK MAYAPADA Tbk.",
+    "name_singkat": "BANK MAYAPADA",
+    "code": "097",
+    "kode_kantor": "0017"
+  },
+  {
+    "no": 48,
+    "sandi_bic": "IBBKIDJA",
+    "name": "PT. BANK MAYBANK INDONESIA Tbk.",
+    "name_singkat": "BANK MAYBANK",
+    "code": "016",
+    "kode_kantor": "0131"
+  },
+  {
+    "no": 49,
+    "sandi_bic": "SYBKIDJ1",
+    "name": "PT. BANK MAYBANK INDONESIA Tbk. UNIT USAHA SYARIAH",
+    "name_singkat": "BANK MAYBANK UUS",
+    "code": "016",
+    "kode_kantor": "9925"
+  },
+  {
+    "no": 50,
+    "sandi_bic": "MAYOIDJA",
+    "name": "PT. BANK HIBANK INDONESIA",
+    "name_singkat": "BANK HIBANK",
+    "code": "553",
+    "kode_kantor": "0012"
+  },
+  {
+    "no": 51,
+    "sandi_bic": "MEGAIDJA",
+    "name": "PT. BANK MEGA Tbk.",
+    "name_singkat": "BANK MEGA",
+    "code": "426",
+    "kode_kantor": "0121"
+  },
+  {
+    "no": 52,
+    "sandi_bic": "BUTGIDJ1",
+    "name": "PT. BANK MEGA SYARIAH",
+    "name_singkat": "BANK MEGA SYARIAH",
+    "code": "506",
+    "kode_kantor": "0016"
+  },
+  {
+    "no": 53,
+    "sandi_bic": "MEDHIDS1",
+    "name": "PT. BANK MESTIKA DHARMA",
+    "name_singkat": "BANK MESTIKA",
+    "code": "151",
+    "kode_kantor": "0010"
+  },
+  {
+    "no": 54,
+    "sandi_bic": "MHCCIDJA",
+    "name": "PT. BANK MIZUHO INDONESIA",
+    "name_singkat": "BANK MIZUHO",
+    "code": "048",
+    "kode_kantor": "0303"
+  },
+  {
+    "no": 55,
+    "sandi_bic": "MUABIDJA",
+    "name": "PT. BANK MUAMALAT INDONESIA",
+    "name_singkat": "BANK MUAMALAT",
+    "code": "147",
+    "kode_kantor": "0011"
+  },
+  {
+    "no": 56,
+    "sandi_bic": "SYSBIDJ1",
+    "name": "PT. BANK NAGARI - UNIT USAHA SYARIAH",
+    "name_singkat": "BANK NAGARI - UUS",
+    "code": "118",
+    "kode_kantor": "9920"
+  },
+  {
+    "no": 57,
+    "sandi_bic": "LFIBIDJ1",
+    "name": "PT. BANK NATIONALNOBU",
+    "name_singkat": "BANK NATIONALNOBU",
+    "code": "503",
+    "kode_kantor": "0017"
+  },
+  {
+    "no": 58,
+    "sandi_bic": "PDNBIDJ1",
+    "name": "PT. BANK PEMBANGUNAN DAERAH NTB SYARIAH",
+    "name_singkat": "BPD NTB SYARIAH",
+    "code": "128",
+    "kode_kantor": "0010"
+  },
+  {
+    "no": 59,
+    "sandi_bic": "NISPIDJA",
+    "name": "PT. BANK OCBC NISP, Tbk.",
+    "name_singkat": "BANK OCBC NISP",
+    "code": "028",
+    "kode_kantor": "0024"
+  },
+  {
+    "no": 60,
+    "sandi_bic": "SYONIDJ1",
+    "name": "PT.BANK OCBC NISP TBK - UNIT USAHA SYARIAH",
+    "name_singkat": "BANK OCBC NISP - UUS",
+    "code": "028",
+    "kode_kantor": "9928"
+  },
+  {
+    "no": 61,
+    "sandi_bic": "SWBAIDJ1",
+    "name": "PT. BANK OF INDIA INDONESIA, TBK",
+    "name_singkat": "BANK OF INDIA IND",
+    "code": "146",
+    "kode_kantor": "0047"
+  },
+  {
+    "no": 62,
+    "sandi_bic": "ARFAIDJ1",
+    "name": "PT. BANK PANIN DUBAI SYARIAH",
+    "name_singkat": "BANK PANIN DUBAI SYA",
+    "code": "517",
+    "kode_kantor": "0016"
+  },
+  {
+    "no": 63,
+    "sandi_bic": "BBBAIDJA",
+    "name": "PT. BANK PERMATA,TBK",
+    "name_singkat": "BANK PERMATA",
+    "code": "013",
+    "kode_kantor": "0475"
+  },
+  {
+    "no": 64,
+    "sandi_bic": "SYBBIDJ1",
+    "name": "PT. BANK PERMATA,TBK UNIT USAHA SYARIAH",
+    "name_singkat": "BANK PERMATA UUS",
+    "code": "013",
+    "kode_kantor": "9926"
+  },
+  {
+    "no": 65,
+    "sandi_bic": "AWANIDJA",
+    "name": "PT. BANK QNB INDONESIA,TBK",
+    "name_singkat": "BANK QNB",
+    "code": "167",
+    "kode_kantor": "0015"
+  },
+  {
+    "no": 66,
+    "sandi_bic": "BPIAIDJA",
+    "name": "PT. BANK RESONA PERDANIA",
+    "name_singkat": "BANK RESONA",
+    "code": "047",
+    "kode_kantor": "0300"
+  },
+  {
+    "no": 67,
+    "sandi_bic": "PDRIIDJA",
+    "name": "PT. BANK PEMBANGUNAN DAERAH RIAU KEPRI SYARIAH",
+    "name_singkat": "BPD RIAU KEPRI SYARIAH",
+    "code": "119",
+    "kode_kantor": "0016"
+  },
+  {
+    "no": 68,
+    "sandi_bic": "ROYBIDJ1",
+    "name": "PT. BANK DIGITAL BCA",
+    "name_singkat": "BANK DIGITAL BCA",
+    "code": "501",
+    "kode_kantor": "0011"
+  },
+  {
+    "no": 69,
+    "sandi_bic": "SAHMIDJA",
+    "name": "PT. BANK SAHABAT SAMPOERNA",
+    "name_singkat": "BANK SAMPOERNA",
+    "code": "523",
+    "kode_kantor": "0011"
+  },
+  {
+    "no": 70,
+    "sandi_bic": "IDMOIDJ1",
+    "name": "PT. BANK SBI INDONESIA",
+    "name_singkat": "BANK SBI",
+    "code": "498",
+    "kode_kantor": "0016"
+  },
+  {
+    "no": 71,
+    "sandi_bic": "MEEKIDJ1",
+    "name": "PT. BANK SHINHAN INDONESIA",
+    "name_singkat": "BANK SHINHAN IND",
+    "code": "152",
+    "kode_kantor": "0013"
+  },
+  {
+    "no": 72,
+    "sandi_bic": "SBJKIDJA",
+    "name": "PT. BANK SINARMAS",
+    "name_singkat": "BANK SINARMAS",
+    "code": "153",
+    "kode_kantor": "0016"
+  },
+  {
+    "no": 73,
+    "sandi_bic": "NANOIDJ1",
+    "name": "PT. BANK NANO SYARIAH",
+    "name_singkat": "BANK NANO SYARIAH",
+    "code": "253",
+    "kode_kantor": "0015"
+  },
+  {
+    "no": 74,
+    "sandi_bic": "PDWSIDJ1",
+    "name": "PT. BANK SULSELBAR",
+    "name_singkat": "BANK SULSELBAR",
+    "code": "126",
+    "kode_kantor": "0027"
+  },
+  {
+    "no": 75,
+    "sandi_bic": "SYWSIDJ1",
+    "name": "PT. BANK SULSELBAR UNIT USAHA SYARIAH",
+    "name_singkat": "BANK SULSELBAR UUS",
+    "code": "126",
+    "kode_kantor": "9947"
+  },
+  {
+    "no": 76,
+    "sandi_bic": "PDSUIDJ1",
+    "name": "PT. BANK PEMBANGUNAN DAERAH SUMUT",
+    "name_singkat": "BANK SUMUT",
+    "code": "117",
+    "kode_kantor": "0010"
+  },
+  {
+    "no": 77,
+    "sandi_bic": "SDOBIDJ1",
+    "name": "PT. BANK KB BUKOPIN SYARIAH",
+    "name_singkat": "BANK KB BUKOPIN SYARIAH",
+    "code": "521",
+    "kode_kantor": "0031"
+  },
+  {
+    "no": 78,
+    "sandi_bic": "VICTIDJ1",
+    "name": "PT. BANK VICTORIA INTERNATIONAL",
+    "name_singkat": "BANK VICTORIA",
+    "code": "566",
+    "kode_kantor": "0018"
+  },
+  {
+    "no": 79,
+    "sandi_bic": "SWAGIDJ1",
+    "name": "PT. BANK VICTORIA SYARIAH",
+    "name_singkat": "BANK VICTORIA SYARIAH",
+    "code": "405",
+    "kode_kantor": "0072"
+  },
+  {
+    "no": 80,
+    "sandi_bic": "BSDRIDJA",
+    "name": "PT. BANK WOORI SAUDARA INDONESIA 1906,TBK",
+    "name_singkat": "BANK WOORI SAUDARA",
+    "code": "212",
+    "kode_kantor": "0027"
+  },
+  {
+    "no": 81,
+    "sandi_bic": "YUDBIDJ1",
+    "name": "PT. BANK NEO COMMERCE, Tbk.",
+    "name_singkat": "BANK NEO COMMERCE",
+    "code": "490",
+    "kode_kantor": "0012"
+  },
+  {
+    "no": 82,
+    "sandi_bic": "BBAIIDJA",
+    "name": "PT. BANK BUMI ARTA",
+    "name_singkat": "BBA",
+    "code": "076",
+    "kode_kantor": "0010"
+  },
+  {
+    "no": 83,
+    "sandi_bic": "CENAIDJA",
+    "name": "PT. BANK CENTRAL ASIA Tbk.",
+    "name_singkat": "BCA",
+    "code": "014",
+    "kode_kantor": "0397"
+  },
+  {
+    "no": 84,
+    "sandi_bic": "INDOIDJA",
+    "name": "BANK INDONESIA",
+    "name_singkat": "BI",
+    "code": "001",
+    "kode_kantor": "0016"
+  },
+  {
+    "no": 85,
+    "sandi_bic": "BNPAIDJA",
+    "name": "PT. BANK BNP PARIBAS INDONESIA",
+    "name_singkat": "BNP PARIBAS",
+    "code": "057",
+    "kode_kantor": "0307"
+  },
+  {
+    "no": 86,
+    "sandi_bic": "BOFAID2X",
+    "name": "BANK OF AMERICA NA",
+    "name_singkat": "BOA",
+    "code": "033",
+    "kode_kantor": "0301"
+  },
+  {
+    "no": 87,
+    "sandi_bic": "BKCHIDJA",
+    "name": "BANK OF CHINA (HONG KONG) LIMITED",
+    "name_singkat": "BOC LIMITED",
+    "code": "069",
+    "kode_kantor": "0300"
+  },
+  {
+    "no": 88,
+    "sandi_bic": "ABALIDBS",
+    "name": "PT. BANK PEMBANGUNAN DAERAH BALI",
+    "name_singkat": "BPD BALI",
+    "code": "129",
+    "kode_kantor": "0013"
+  },
+  {
+    "no": 89,
+    "sandi_bic": "PDBBIDJ1",
+    "name": "PT. BANK PEMBANGUNAN DAERAH BANTEN",
+    "name_singkat": "BPD BANTEN",
+    "code": "137",
+    "kode_kantor": "0014"
+  },
+  {
+    "no": 90,
+    "sandi_bic": "PDJMIDJ1",
+    "name": "PT.BANK PEMBANGUNAN DAERAH JAMBI",
+    "name_singkat": "BPD JAMBI",
+    "code": "115",
+    "kode_kantor": "0014"
+  },
+  {
+    "no": 91,
+    "sandi_bic": "SYJMIDJ1",
+    "name": "PT. BANK PEMBANGUNAN DAERAH JAMBI UUS",
+    "name_singkat": "BPD JAMBI UUS",
+    "code": "115",
+    "kode_kantor": "9918"
+  },
+  {
+    "no": 92,
+    "sandi_bic": "PDKBIDJ1",
+    "name": "PT.BANK PEMBANGUNAN DAERAH KALBAR",
+    "name_singkat": "BPD KALBAR",
+    "code": "123",
+    "kode_kantor": "0015"
+  },
+  {
+    "no": 93,
+    "sandi_bic": "SYKBIDJ1",
+    "name": "PT.BANK PEMBANGUNAN DAERAH KALBAR UUS",
+    "name_singkat": "BPD KALBAR UUS",
+    "code": "123",
+    "kode_kantor": "9922"
+  },
+  {
+    "no": 94,
+    "sandi_bic": "PDKSIDJ1",
+    "name": "PT. BANK PEMBANGUNAN DAERAH KALSEL",
+    "name_singkat": "BPD KALSEL",
+    "code": "122",
+    "kode_kantor": "0012"
+  },
+  {
+    "no": 95,
+    "sandi_bic": "SYKSIDJ1",
+    "name": "PT. BANK PEMBANGUNAN DAERAH KALSEL - UNIT USAHA SY",
+    "name_singkat": "BPD KALSEL UUS",
+    "code": "122",
+    "kode_kantor": "9929"
+  },
+  {
+    "no": 96,
+    "sandi_bic": "PDKGIDJ1",
+    "name": "PT. BPD KALIMANTAN TENGAH",
+    "name_singkat": "BPD KALTENG",
+    "code": "125",
+    "kode_kantor": "0011"
+  },
+  {
+    "no": 97,
+    "sandi_bic": "PDKTIDJ1",
+    "name": "PT. BANK PEMBANGUNAN DAERAH KALTIM DAN KALTARA",
+    "name_singkat": "BPD KALTIMTARA",
+    "code": "124",
+    "kode_kantor": "0018"
+  },
+  {
+    "no": 98,
+    "sandi_bic": "SYKTIDJ1",
+    "name": "PT.BANK PEMBANGUNAN DAERAH KALTIM DAN KALTARA-UNIT",
+    "name_singkat": "BPD KALTIMTARA UUS",
+    "code": "124",
+    "kode_kantor": "9925"
+  },
+  {
+    "no": 99,
+    "sandi_bic": "PDNTIDJ1",
+    "name": "PT.BANK PEMBANGUNAN DAERAH NTT",
+    "name_singkat": "BPD NTT",
+    "code": "130",
+    "kode_kantor": "0013"
+  },
+  {
+    "no": 100,
+    "sandi_bic": "PDIJIDJ1",
+    "name": "PT.BANK PEMBANGUNAN DAERAH PAPUA",
+    "name_singkat": "BPD PAPUA",
+    "code": "132",
+    "kode_kantor": "0019"
+  },
+  {
+    "no": 101,
+    "sandi_bic": "PDWGIDJ1",
+    "name": "PT. BPD SULAWESI TENGAH",
+    "name_singkat": "BPD SULTENG",
+    "code": "134",
+    "kode_kantor": "0015"
+  },
+  {
+    "no": 102,
+    "sandi_bic": "PDWRIDJ1",
+    "name": "PT. BPD SULAWESI TENGGARA",
+    "name_singkat": "BPD SULTRA",
+    "code": "135",
+    "kode_kantor": "0018"
+  },
+  {
+    "no": 103,
+    "sandi_bic": "PDWUIDJ1",
+    "name": "PT. BANK PEMBANGUNAN DAERAH SULUT",
+    "name_singkat": "BPD SULUT",
+    "code": "127",
+    "kode_kantor": "0017"
+  },
+  {
+    "no": 104,
+    "sandi_bic": "PDSBIDJ1",
+    "name": "PT. BANK PEMBANGUNAN DAERAH SUMATERA BARAT",
+    "name_singkat": "BANK NAGARI",
+    "code": "118",
+    "kode_kantor": "0013"
+  },
+  {
+    "no": 105,
+    "sandi_bic": "BSSPIDSP",
+    "name": "PT. BPD SUMSEL DAN BABEL",
+    "name_singkat": "BPD SUMSEL BABEL",
+    "code": "120",
+    "kode_kantor": "0016"
+  },
+  {
+    "no": 106,
+    "sandi_bic": "SYSSIDJ1",
+    "name": "PT. BPD SUMSEL DAN BABEL UNIT USAHA SYARIAH",
+    "name_singkat": "BPD SUMSEL BABEL UUS",
+    "code": "120",
+    "kode_kantor": "9923"
+  },
+  {
+    "no": 107,
+    "sandi_bic": "SYSUIDJ1",
+    "name": "PT. BANK PEMBANGUNAN DAERAH SUMUT UUS",
+    "name_singkat": "BPD SUMUT UUS",
+    "code": "117",
+    "kode_kantor": "9927"
+  },
+  {
+    "no": 108,
+    "sandi_bic": "BRINIDJA",
+    "name": "PT. BANK RAKYAT INDONESIA (PERSERO)",
+    "name_singkat": "BRI",
+    "code": "002",
+    "kode_kantor": "0307"
+  },
+  {
+    "no": 109,
+    "sandi_bic": "BSMDIDJA",
+    "name": "PT. BANK SYARIAH INDONESIA",
+    "name_singkat": "BANK BSI",
+    "code": "451",
+    "kode_kantor": "0017"
+  },
+  {
+    "no": 110,
+    "sandi_bic": "BOTKIDJX",
+    "name": "MUFG BANK, LTD",
+    "name_singkat": "BTMU",
+    "code": "042",
+    "kode_kantor": "0305"
+  },
+  {
+    "no": 111,
+    "sandi_bic": "BTANIDJA",
+    "name": "PT. BANK TABUNGAN NEGARA (PERSERO)",
+    "name_singkat": "BTN",
+    "code": "200",
+    "kode_kantor": "0150"
+  },
+  {
+    "no": 112,
+    "sandi_bic": "SYBTIDJ1",
+    "name": "PT. BANK TABUNGAN NEGARA (PERSERO) UNIT USAHA SYAR",
+    "name_singkat": "BTN UUS",
+    "code": "200",
+    "kode_kantor": "9928"
+  },
+  {
+    "no": 113,
+    "sandi_bic": "SUNIIDJA",
+    "name": "BANK SMBC INDONESIA",
+    "name_singkat": "BANK SMBC",
+    "code": "213",
+    "kode_kantor": "0101"
+  },
+  {
+    "no": 114,
+    "sandi_bic": "BBUKIDJA",
+    "name": "PT. BANK BUKOPIN Tbk.",
+    "name_singkat": "BUKOPIN",
+    "code": "441",
+    "kode_kantor": "0010"
+  },
+  {
+    "no": 115,
+    "sandi_bic": "MCORIDJA",
+    "name": "PT. BANK CHINA CONSTRUCTION BANK INDONESIA, TBK",
+    "name_singkat": "CHINA CONSTRUCTION B",
+    "code": "036",
+    "kode_kantor": "0300"
+  },
+  {
+    "no": 116,
+    "sandi_bic": "CITIIDJX",
+    "name": "CITIBANK, NA",
+    "name_singkat": "CITIBANK",
+    "code": "031",
+    "kode_kantor": "0305"
+  },
+  {
+    "no": 117,
+    "sandi_bic": "CTCBIDJA",
+    "name": "PT. BANK CTBC INDONESIA",
+    "name_singkat": "CTBC INDONESIA",
+    "code": "949",
+    "kode_kantor": "0307"
+  },
+  {
+    "no": 118,
+    "sandi_bic": "DBSBIDJA",
+    "name": "PT. BANK DBS INDONESIA",
+    "name_singkat": "DBS",
+    "code": "046",
+    "kode_kantor": "0307"
+  },
+  {
+    "no": 119,
+    "sandi_bic": "DEUTIDJA",
+    "name": "DEUTSCHE BANK AG.",
+    "name_singkat": "DEUTSCHE BANK",
+    "code": "067",
+    "kode_kantor": "0304"
+  },
+  {
+    "no": 120,
+    "sandi_bic": "CHASIDJX",
+    "name": "KC JPMORGAN CHASE BANK, N.A",
+    "name_singkat": "JPMORGAN BANK",
+    "code": "032",
+    "kode_kantor": "0308"
+  },
+  {
+    "no": 121,
+    "sandi_bic": "NETBIDJA",
+    "name": "PT. BANK ALADIN SYARIAH",
+    "name_singkat": "BANK ALADIN SYARIAH",
+    "code": "947",
+    "kode_kantor": "0302"
+  },
+  {
+    "no": 122,
+    "sandi_bic": "BUMIIDJA",
+    "name": "PT. BANK MNC INTERNASIONAL, TBK",
+    "name_singkat": "MNC BANK",
+    "code": "485",
+    "kode_kantor": "0010"
+  },
+  {
+    "no": 123,
+    "sandi_bic": "PINBIDJA",
+    "name": "PT. PANIN BANK Tbk.",
+    "name_singkat": "PANIN BANK",
+    "code": "019",
+    "kode_kantor": "0017"
+  },
+  {
+    "no": 124,
+    "sandi_bic": "SCBLIDJX",
+    "name": "STANDARD CHARTERED BANK",
+    "name_singkat": "STANDCHARD",
+    "code": "050",
+    "kode_kantor": "0306"
+  },
+  {
+    "no": 125,
+    "sandi_bic": "BBIJIDJA",
+    "name": "PT. BANK UOB INDONESIA",
+    "name_singkat": "UOB INDONESIA",
+    "code": "023",
+    "kode_kantor": "0016"
+  }
+]
