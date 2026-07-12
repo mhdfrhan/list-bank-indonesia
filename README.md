@@ -83,36 +83,6 @@ Setiap objek bank memiliki struktur sebagai berikut:
 
 ---
 
-## ☁️ Cara Deploy ke GitHub & Vercel
-
-### Langkah 1: Publish ke GitHub
-1. Inisialisasi Git di folder lokal Anda jika belum:
-   ```bash
-   git init
-   git add .
-   git commit -m "Inisialisasi API Bank Indonesia"
-   ```
-2. Buat repositori baru di GitHub (misal bernama `list-bank-indonesia`).
-3. Hubungkan repositori lokal Anda ke GitHub dan push:
-   ```bash
-   git remote add origin https://github.com/mhdfrhan/list-bank-indonesia.git
-   git branch -M main
-   git push -u origin main
-   ```
-
-### Langkah 2: Deploy ke Vercel (Gratis)
-1. Masuk ke dashboard **Vercel** (`https://vercel.com`).
-2. Klik **Add New** -> **Project**.
-3. Hubungkan akun GitHub Anda dan pilih repositori `list-bank-indonesia`.
-4. Vercel akan membaca konfigurasi secara otomatis:
-   - **Framework Preset**: *Other* atau *Vite/Create React App* (biarkan default).
-   - **Build Command**: `npm run build` (auto-detected).
-   - **Output Directory**: `dist` (auto-detected).
-5. Klik **Deploy**.
-6. Proyek Anda sekarang aktif! Vercel akan otomatis men-deploy setiap kali Anda melakukan `git push` ke branch `main`.
-
----
-
 ## ⚖️ Lisensi
 
 Proyek ini menggunakan lisensi **MIT**. Anda bebas menggunakan API ini untuk kebutuhan komersil maupun non-komersil secara gratis.
