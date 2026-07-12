@@ -9,5 +9,8 @@
         { "key": "Access-Control-Allow-Headers", "value": "Content-Type" }
       ]
     }
+  ],
+  "rewrites": [
+    { "source": "/api/bank.json", "destination": "/api/banks.json" }
   ]
 }
