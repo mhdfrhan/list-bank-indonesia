@@ -86,8 +86,14 @@ function parseBanks() {
             fullName = words.slice(0, shortNameIndex).join(' ');
             shortName = words.slice(shortNameIndex).join(' ');
           }
-          fullName = fullName.trim().replace(/,$/, '');
         }
+
+        // Clean up leading "PT" (with optional dot/space)
+        fullName = fullName.replace(/^PT\b\.?\s*/i, '').trim();
+        shortName = shortName.replace(/^PT\b\.?\s*/i, '').trim();
+
+        // Clean up trailing commas
+        fullName = fullName.replace(/,$/, '').trim();
 
         parsedBanks.push({
           no,
