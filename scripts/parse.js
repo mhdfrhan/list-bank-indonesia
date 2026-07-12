@@ -4,10 +4,10 @@ const path = require('path');
 // Paths
 const mdPath = path.join(__dirname, '..', 'sandi-bank-bi.md');
 const distDir = path.join(__dirname, '..', 'dist');
-const apiDir = path.join(distDir, 'api');
+const publicDir = path.join(__dirname, '..', 'public');
+const apiDir = path.join(publicDir, 'api');
 const codeDir = path.join(apiDir, 'banks', 'code');
 const bicDir = path.join(apiDir, 'banks', 'bic');
-const publicDir = path.join(__dirname, '..', 'public');
 
 // Short name starting prefixes
 const shortNamePrefixes = [
